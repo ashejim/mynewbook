@@ -1,4 +1,4 @@
-# Welcome to your Jupyter Book
+# Welcome to Jim's Test Jupyter Book
 
 This is a small sample book to give you a feel for how book content is
 structured.
@@ -9,4 +9,5 @@ Check out the content pages bundled with this sample book to see more.
 
 ```{tableofcontents}
 ```
-And here is a small change made to the source, .md, file in the git-page branch.
+
+Here is an update to the .md file made on the local main branch.
