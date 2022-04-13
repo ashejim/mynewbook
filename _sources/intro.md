@@ -9,3 +9,4 @@ Check out the content pages bundled with this sample book to see more.
 
 ```{tableofcontents}
 ```
+And here is a small change made to the source, .md, file in the git-page branch.
