@@ -1,1 +1,80 @@
-{}
+{
+  "how_to": {
+    "boot_clo": {
+      "output_type": "display_data",
+      "metadata": {
+        "scrapbook": {
+          "name": "boot_clo",
+          "mime_prefix": ""
+        }
+      },
+      "data": {
+        "text/plain": "2.9876375533459543"
+      }
+    },
+    "ht-distfig": {
+      "output_type": "display_data",
+      "metadata": {
+        "scrapbook": {
+          "name": "ht-distfig",
+          "mime_prefix": "application/papermill.record/"
+        },
+        "filenames": {
+          "image/png": "C:\\Users\\Jim\\OneDrive\\jupyter-books\\D195\\_build\\jupyter_execute\\how_to_33_0.png"
+        }
+      },
+      "data": {
+        "application/papermill.record/text/plain": "<Figure size 432x288 with 1 Axes>",
+        "application/papermill.record/image/png": null
+      }
+    },
+    "boot_chi": {
+      "output_type": "display_data",
+      "metadata": {
+        "scrapbook": {
+          "name": "boot_chi",
+          "mime_prefix": ""
+        }
+      },
+      "data": {
+        "text/plain": "3.012175911495104"
+      }
+    },
+    "box-images": {
+      "output_type": "display_data",
+      "metadata": {
+        "scrapbook": {
+          "name": "box-images",
+          "mime_prefix": "application/papermill.record/"
+        }
+      },
+      "data": {}
+    },
+    "boot_mean": {
+      "output_type": "display_data",
+      "metadata": {
+        "scrapbook": {
+          "name": "boot_mean",
+          "mime_prefix": "application/papermill.record/"
+        }
+      },
+      "data": {
+        "application/papermill.record/text/plain": "2.9997771498362074"
+      }
+    }
+  },
+  "test_stuff": {
+    "cool_text": {
+      "output_type": "display_data",
+      "metadata": {
+        "scrapbook": {
+          "name": "cool_text",
+          "mime_prefix": ""
+        }
+      },
+      "data": {
+        "text/plain": "'here is some text!'"
+      }
+    }
+  }
+}
